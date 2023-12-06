@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AI in XRAY**
+- 🔭 I’m currently working on **FULL STACK WEB DEVELOPMENT**
 
-- 🌱 I’m currently learning **DSA WITH JAVA AND C , JS , AIML**
+- 🌱 I’m currently learning **DSA WITH JAVA , C++ , MLOPS , HTML , CSS , JAVASCRIPT **
 
-- 🤝 I’m looking for help with **CLIP MODEL**
+- 🤝 I’m looking for help with **BACKEND DEVELOPMENT**
 
-- 💬 Ask me about **ML MODELS**
+- 💬 Ask me about **MACHINE LEARNING MODELS**
 
 - 📫 How to reach me **shubhbareilly28@gmail.com**
 
