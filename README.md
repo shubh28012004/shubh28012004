@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DSA WITH JAVA , C++ , MLOPS , HTML , CSS , JAVASCRIPT **
 
-- 🤝 I’m looking for help with **BACKEND DEVELOPMENT**
+- 🤝 I’m looking for help with **CAMOFLAUDGE DETECTION**
 
 - 💬 Ask me about **MACHINE LEARNING MODELS**
 
