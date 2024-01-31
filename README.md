@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **FULL STACK WEB DEVELOPMENT**
 
-- 🌱 I’m currently learning **DSA WITH JAVA , C++ , MLOPS , HTML , CSS , JAVASCRIPT **
+- 🌱 I’m currently learning **DSA WITH JAVA , C++ , MLOPS , HTML , CSS , JAVASCRIPT**
 
 - 🤝 I’m looking for help with **CAMOFLAUDGE DETECTION**
 
