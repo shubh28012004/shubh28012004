@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shubh Agarwal</h1>
-<h3 align="center">Passionate about Data Engineer in India</h3>
+<h3 align="center">Passionate about Data Engineer and Full Stack Development in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh28012004&label=Profile%20views&color=0e75b6&style=flat" alt="shubh28012004" /> </p>
 
